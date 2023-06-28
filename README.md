@@ -6,7 +6,7 @@ This is a Homepage concept website for a fictional client named Lucky Shrub, whi
 
 ### Links
 
-- Live Site URL: (https://Damilaaree.github.io/LittleLemonWebsite)
+- Live Site URL: (https://Damilaaree.github.io/LuckyShrub)
 
 ## My process
 
